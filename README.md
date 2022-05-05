@@ -32,16 +32,32 @@ Miembros
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
 
-![Método UX](img/Persona.png) 1.b Persona
+![Método UX](img/Persona.png) 1.b Personas
 -----
-
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+>>> **Susana**
+>>> 
+>>> Hemos escogido a Susana debido a que las personas dispuestas a conocer otra gente con la que convivan son un claro objetivo de los hosteles.
+>>> ![Método UX](img/1b_susana.jpeg) 
+>>> 
+>>> 
+>>> **Emilio**
+>>> 
+>>> Hemos escogido a Emilio porque otro de los objetivos de los hosteles es atraer un público que no puede permitirse alojamientos de un gran presupuesto, y que
+necesitan algo más económico para poder quedarse donde necesiten.
+>>> ![Método UX](img/1b_emilio.jpeg)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
-
-
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+>>> **Susana**
+>>> 
+>>> Susana va al 4uHostel porque es barato, hay bar y tiene un parking cercano.
+>>> ![Método UX](img/1c_susana.jpeg) 
+>>> 
+>>> 
+>>> **Emilio**
+>>> 
+>>> Emilio se interesa por este hostel ya que hay conciertos y la oportunidad de conocer gente nueva con la que inspirarse.
+>>> ![Método UX](img/1c_emilio.jpeg)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
