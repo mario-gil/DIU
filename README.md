@@ -61,11 +61,10 @@ necesitan algo más económico para poder quedarse donde necesiten.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>> - Enlace al documento:  https://github.com/mario-gil/DIU/blob/master/P1/Usability-review.pdf
+>>> - Valoración final (numérica): 84
+>>> - Comentario sobre la valoración:  El sitio web es aceptable para cualquier tipo de usuario, pero tiene ciertos problemas como
+el color/tamaño del texto o que tiene dos páginas web diferentes.
 
 
 ## Paso 2. UX Design  
