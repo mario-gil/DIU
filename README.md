@@ -1,7 +1,7 @@
 # DIU22
 Prácticas Diseño Interfaces de Usuario 2021-22 (Tema: Hostels) 
 
-Grupo: DIU1_01AABB.  Curso: 2021/22 
+Grupo: DIU3.3Mosqueteros.  Curso: 2021/22 
 Updated: 11/2/2022
 
 Proyecto: 
