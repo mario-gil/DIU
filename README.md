@@ -76,7 +76,7 @@ el color/tamaño del texto o que tiene dos páginas web diferentes.
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
 ----
 
-![Método UX](img/2a_feedback.png)
+>>> ![Método UX](img/2a_feedback.jpeg)
   
     
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
@@ -88,19 +88,19 @@ el color/tamaño del texto o que tiene dos páginas web diferentes.
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+>>> ![Método UX](img/2b_scope.jpeg)
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+>>> ![Método UX](img/2b_tasks.png)
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
 
->>> Identificar términos para diálogo con usuario  
+>>> ![Método UX](img/2b_task.jpeg)
 
 Término | Significado     
 | ------------- | -------
