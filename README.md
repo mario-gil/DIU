@@ -156,17 +156,18 @@ Reserva
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
-
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
-
+![Método UX](img/3a_board1.png)
+![Método UX](img/3a_board2.png)
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
-
->>> Plantear Landing Page 
+![Método UX](img/web1.png)
+![Método UX](img/web2.png)
+![Método UX](img/web3.png)
+![Método UX](img/web4.png)
+![Método UX](img/web5.png)
+![Método UX](img/web6.png)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
