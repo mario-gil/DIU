@@ -12,7 +12,7 @@ Descripción:
 >>> Describa la idea de su producto en la práctica 2 
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+>>> ![Método UX](img/logotipo.png)
 
 Miembros
  * :bust_in_silhouette:   Mario Gil Guerrero     :octocat:     
@@ -29,8 +29,10 @@ Miembros
 
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
+![Método UX](img/competitive.png)
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+Hemos elegido otros hosteles que se encuentran en Granada, por lo que le hacen la competencia directa al nuestro. Podemos ver cómo en cada página web podemos ver que faltan opciones que en otras si están, por lo que es difícil decidir cuál está mejor diseñada.
+
 
 ![Método UX](img/Persona.png) 1.b Personas
 -----
