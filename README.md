@@ -9,7 +9,8 @@ Proyecto:
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+>>> Hemos ideado una app para el móvil, a través de la cual podremos ver los eventos que esten planificados y reservar mesa. Podremos ver 
+>>> información más específica de cada evento. También podremos ver el menú y ofertas. 
 
 Logotipo: 
 >>> ![Método UX](img/logotipo.png)
