@@ -106,8 +106,16 @@ Término | Significado
 | ------------- | -------
   Inicio  | Página principal del sitio. Se describen las funcionalidades de la aplicación, los protocolos Covid seguidos, enlaces a los distintos lugares de la página...
   Calendario Eventos | Calendario que mostrará en qué días hay un evento y permitirá ver información sobre ellos
-
-
+  Sobre Nosotros | Información sobre el equipo, así como el proyecto.
+  FAQ | Listado de preguntas habituales relacionadas con el uso de la aplicación junto con sus respuestas.
+  Contacto | Información de contacto para poder recibir asistencia.
+  RRSS | Enlaces a las redes sociales del proyecto.
+  Artistas | Información del artista del evento seleccionado.
+  Reservar | Se muestra una página similar a un carrito de la compra, con el nombre, fecha, descripción, foto del evento, el número de asientos y la opción de pagar.
+  Pago | Realizar el pago de la reserva especificada.
+  Menú | Información con los platos que se sirven en el restaurante, así como ofertas temporales.
+  Platos | Muestra la información, así como alérgenos, específicos de cada plato.
+  Ofertas | Promociones en algún plato del restaurante.
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
