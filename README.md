@@ -104,7 +104,9 @@ el color/tamaño del texto o que tiene dos páginas web diferentes.
 
 Término | Significado     
 | ------------- | -------
-  Login¿?  | acceder a plataforma
+  Inicio  | Página principal del sitio. Se describen las funcionalidades de la aplicación, los protocolos Covid seguidos, enlaces a los distintos lugares de la página...
+  Calendario Eventos | Calendario que mostrará en qué días hay un evento y permitirá ver información sobre ellos
+
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
