@@ -120,7 +120,27 @@ Término | Significado
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+Página Principal
+![Método UX](img/principal.png)
+
+Menú lateral
+![Método UX](img/lateral.png)
+
+Calendario Eventos
+![Método UX](img/calendario.png)
+
+Calendario Eventos Seleccionado
+![Método UX](img/calendario_selec.png)
+
+Calendario Artista
+![Método UX](img/artista.png)
+
+Menú Carta
+![Método UX](img/carta.png)
+
+Reserva
+![Método UX](img/reserva.png)
+
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
