@@ -5,7 +5,7 @@ Grupo: DIU3.3Mosqueteros.  Curso: 2021/22
 Updated: 11/2/2022
 
 Proyecto: 
->>> Cenas Musicales
+>>> Concerts4UrDinner
 
 Descripción: 
 
@@ -176,21 +176,34 @@ Puede ver el landing page pinchando aquí: [Concerts4UrDinenr](https://joses-sup
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Hemos elegido colores oscuros y fuertes, pero sin que lleguen a molestar a la vista. Estos colores quedan bien para nuestro tipo de web, ya que nos recuerdan a la noche y luces que podrían haber en un concierto.
+En la práctica, necesitaríamos al menos un color más para elementos como avisos, así como definir unos 7 shades de cada tonalidad. El proceso a seguir sería similar al que muestra RefactoringUI en su artículo.
+
+Principalmente usaremos 2 tipografías:
+Para los títulos es Oleo Script Swash Caps. Es un tipo de letra elegante y atractiva, a la vez que casual, que es lo que buscábamos nosotros.
+Para el cuerpo usaremos Patrick Hand. Es una fuente casual pero manteniendo un cierto estilo, perfecta para nuestra página dirigida a un público más joven. Está basada en la escritura del propio diseñador.
+
+El lenguaje usado en toda la aplicación será coloquial, sin tecnicismos.
+La página debe ser posible de usar fácilmente por cualquier tipo de persona.
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
+Hemos creado una aplicación móvil usando Figma para el diseño y ProtoPie para añadir la interactividad.
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+![Método UX](img/mock1.png)
+![Método UX](img/mock2.png)
+![Método UX](img/mock3.png)
+![Método UX](img/mock4.png)
+![Método UX](img/mock5.png)
+![Método UX](img/mock6.png)
+![Método UX](img/mock7.png)
 
+Puede ver la aplicación pinchando aquí: [Concerts4UrDinner](https://cloud.protopie.io/p/20c104b2c7)
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
+Aquí tenemos un video en el que se puede ver toda la funcionalidad de la aplicación:
 
-
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
 
 
 ## Paso 4. Evaluación 
