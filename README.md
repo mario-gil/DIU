@@ -79,10 +79,10 @@ el color/tamaño del texto o que tiene dos páginas web diferentes.
 >>> ![Método UX](img/2a_feedback.jpeg)
   
     
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+>>> El problema es que en la web no hay ninguna información sobre los eventos que están organizados.
+>>> 
+>>>  Nos planteamos que, con un buen sistema para informar a los clientes y que les permita reservar sitio, más gente casual
+>>>  podrá acercarse para este tipo de eventos
 
 
 
