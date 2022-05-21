@@ -203,8 +203,7 @@ Puede ver la aplicación pinchando aquí: [Concerts4UrDinner](https://cloud.prot
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 Aquí tenemos un video en el que se puede ver toda la funcionalidad de la aplicación:
-
-
+https://user-images.githubusercontent.com/100839792/169661029-0fa235ce-47f6-45a7-92d5-e25b4ea6f3df.mp4
 
 ## Paso 4. Evaluación 
 
