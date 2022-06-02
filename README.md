@@ -235,38 +235,22 @@ https://user-images.githubusercontent.com/100839792/169661029-0fa235ce-47f6-45a7
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+![Método UX](img/sus.png)
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+A la vista de los usuarios entrevistados, podríamos concluir que ambas aplicaciones están a la altura, son buenas aplicaciones en cuanto al diseño de la UI, la aplicación A cumple con su interfaz móvil, mientras que la aplicación B incluye tanto interfaz web como móvil, aunque la referente al móvil llega a ser un tanto confusa en ciertos aspectos que analizamos en su informe.
 
+En la aplicación A parece que resulta una aplicación que no será muy frecuentada por los usuarios entrevistados, puesto que el target de la aplicación suele ser gente joven, sociable y animada.
+
+En la aplicación B, un usuario resultó ser una señora con poca costumbre de frecuentar aplicaciones y páginas web, por lo que perjudicó la media de su nota. Sin embargo, como el target de la aplicación no incluye a la señora, se puede tomar con menos valor su puntuación, mientras que como el grupo de senderistas es el objetivo claro del servicio, se deberíá de tomar con mayor importancia sus críticas.
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
+Añadir report de usabilidad para práctica B (la de los compañeros)
 
 
 
->>> Valoración personal 
-
-
->>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
-
-
->>> ![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report 
->>>> ----
-
->>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido 
-
->>> 5.a) Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
->>> 5.b) Uso de simuladores de accesibilidad 
-
->>> (uso de tabla de datos, indicar herramientas usadas) 
-
->>> 5.c Breve resumen del estudio de accesibilidad (de práctica 1) y puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño propuesto en Práctica 4.
-
+En definitiva, la página web cumple con los requisitos que se propone, y consta de un buen diseño de UI para ordenador, aunque para dispositivos móviles a veces no se adapta correctamente. Cabe destacar que la estética de la aplicación web encaja bien con la página de 4UHostel, y queda un resultado realmente profesional. Sin embargo, tiene algunos fallos, entre los que destacamos el gran tamaño del header y footer, con mucho hueco en blanco sin aprovechar. También tiene ciertos enlaces repetidos que llevan al mismo lugar, y otros que, aun llamándose de la misma forma, te llevan a sitios distintos. Pero en general la experiencia en la página es más que satisfactoria, siempre que sea en PC y no en móvil.
 
 
 ## Conclusión final / Valoración de las prácticas
