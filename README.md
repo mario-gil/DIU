@@ -213,7 +213,9 @@ https://user-images.githubusercontent.com/100839792/169661029-0fa235ce-47f6-45a7
 ----
 
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+>>> Vamos a evaluar la web Experience4u, se trata de un minisite orientado a poner de manifiesto las diferentes actividades que se presenta en el establecimiento de
+>>> Hostel4u como en la ciudad de Granada en general. Las actividades pueden ser tanto culturales como gastronómicas o de ocio. Algunas actividades son organizadas por
+>>> el propio hostel y otras no.
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
