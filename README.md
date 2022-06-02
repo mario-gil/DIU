@@ -226,10 +226,10 @@ https://user-images.githubusercontent.com/100839792/169661029-0fa235ce-47f6-45a7
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| User1 | H / 40   | Oficina  | Media       | Avanzada | APP | Gruñón       | App  | A
+| User2  | Familia Joven   | Profesores  | Media       | Alegre       | App        | A 
+| User3  | Grupo de Senderismo   | Variada     | Intermedia        | Alegre    | Web      | B 
+| User4  | M / 80   | Estudiante  | Jubilada     | Baja  | Alegre     | móvil        | B 
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
